@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet](https://github.com/arnietu/Azure-SOC)
+  - [Cyber Security SOAR-EDR Project with LimaCharlie](https://github.com/arnietu/SOAR-EDR-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
